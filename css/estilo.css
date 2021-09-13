@@ -1,0 +1,55 @@
+.logo{
+
+width: 25px;
+
+
+}
+
+.iconos-redes-sociales{
+
+width: 20px;
+margin: 10px 5px;
+
+
+}
+
+.banner{
+
+width: 400px;
+height: 300px;
+margin-top: 20px;
+margin-bottom: 10px;
+
+/* Redondear esquinas */
+background-repeat: no-repeat;
+background-position: 50%;
+border-radius: 10%;
+background-size: 100% auto;
+
+}
+
+.titulos{
+
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+footer{
+
+background-color: black;
+
+
+}
+
+#main{
+margin-top: 60px;
+margin-bottom: 50px;
+
+}
+
+
+
+
+
+
